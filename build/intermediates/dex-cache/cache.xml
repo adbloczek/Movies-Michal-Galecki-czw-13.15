@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\46cf71006f86e7066219a9e41888ff911fe12058\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_94aecf528ebd62a7f9d009ff9b743389a2fd39f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_dcd88017f9a1f690dafa42a7da57a40cf00ca4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\8124c667506db3ba869fb8e7c849ce35647c555d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fc708e023161b0dd4d6fa6e7c3dee593c920b55">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_d4dbe12f2092c22e33caca0dab646338295242c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\f1d46cf1b77411ae70a20ee9c3d11a3444b284ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_839261859a98ee9d69b953f67220ee64b7f347c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\f54f3d7fb2ba1343f5534912295bbe8d81ce87e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_928c5859e35d66f2b4876944f0ff056442d3f3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\fc998f7cbec9a8b0a5ee2b4901d8bbb05bdbdba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_91d093cb8eeaf21a94176cda9eb7fdd146bff0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_24980542ba2f4a744567cdc05bf80f8e599d9414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\d5498847e29e4452300350be829dedc2b72bfaa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_7bb5e19263e7a7cf19543cfc6ad530081ea468eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_003de464d55a7c6c6be44fa76ae18fb554e73410\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\fcafc7dd0fed6e4fda92789333d05631d5a43034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_a41e6f2c5df5e850058041fd7a091c64b806d773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\35e1a24ac2ed8ecc71bc0b1d86938219113276fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_e582e849363ddd4cf1550b2e87599ac38e088af6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2b842e3d5a0bab13743eb80ad25ba414d8889bc">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce7139a383ad33489f2671083ca74ce50a43a830\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\540279a56c4009016b6edc50023444566c028666\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_ba6c1dd44b0f3aa070b6d9996382ee88d6abedcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\81ca453213f27ae8af89c5c798f8fd11fb1caee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_5bdc821e4e98c4549a67cfb1006845588190d412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\f43684d5cabee4c3518e572a9bf10b5c9c674869\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_6119ddcb7125b9843355e26b5fe81df107a640bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\14901feedc30286dfe6b34fd81be8c7326c96b48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_e4e61e3958f2e8e793942406b916c46d1988d5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\c4ae4532a089406c338dab28fe37da3f590cc081\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_b70b92991cb7bdb27ca9195933a60006367dd0d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adblo\.android\build-cache\e8a5f0d19aaee365f61b162b8851cddd40630131\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\adblo\AndroidStudioProjects\Movies\app\build\intermediates\pre-dexed\debug\classes_ab517007152219cded24b26204b67f2361daaa13.jar" />
+    </item>
+
+</items>

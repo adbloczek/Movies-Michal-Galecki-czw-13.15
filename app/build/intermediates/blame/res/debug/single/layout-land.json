@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\adblo\\AndroidStudioProjects\\Movies\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\movie_images.xml",
+        "source": "C:\\Users\\adblo\\AndroidStudioProjects\\Movies\\app\\src\\main\\res\\layout-land\\movie_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\adblo\\AndroidStudioProjects\\Movies\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\movie_second_details.xml",
+        "source": "C:\\Users\\adblo\\AndroidStudioProjects\\Movies\\app\\src\\main\\res\\layout-land\\movie_second_details.xml"
+    }
+]
